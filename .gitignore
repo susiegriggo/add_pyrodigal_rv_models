@@ -1,0 +1,23 @@
+# output files
+*.tsv
+
+# large compressed files
+*.gz
+*.zip
+
+# log file
+*.log
+
+# general text files
+*.txt
+
+# taxdump files
+*.prt
+*.dmp
+nucl_gb.accession2taxid
+
+# folders
+refseq_genomes/
+clustered_*/
+genomes_*/
+pyrodigal_models/
