@@ -2,7 +2,7 @@
 
 This repository contains the notebooks and scripts to reproduce the RNA virus model generation with `pyrodigal`. 
 
-It also contains a notebook to benchmark the performance of [`pyrodigal`](https://github.com/althonos/pyrodigal), [`pyrodigal-gv`](https://github.com/althonos/pyrodigal-gv) and `pyrodigal-rv`.
+It also contains a notebook to benchmark the performance of [`pyrodigal`](https://github.com/althonos/pyrodigal), [`pyrodigal-gv`](https://github.com/althonos/pyrodigal-gv) and [`pyrodigal-rv`](https://github.com/LanderDC/pyrodigal-rv).
 
 
 ## 📊 Benchmarking
